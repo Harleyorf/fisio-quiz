@@ -1,4 +1,4 @@
-# 🧠 Patofisio — Quiz de Patologia Humana
+# 🧠 Patofisio — Quiz de Patologia Humana (em andamento)
 
 Este é um projeto **100% autoral**, desenvolvido do zero com **HTML**, **CSS** e **JavaScript**, como parte de uma **iniciativa de monitoria** voltada para estudantes do curso de **Fisioterapia**.  
 

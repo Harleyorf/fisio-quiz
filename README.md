@@ -24,7 +24,8 @@ Este quiz foi criado para ajudar estudantes com dificuldade na disciplina de **P
 ## 📸 Imagens do Projeto
 
 ### Página Inicial
-./imgithub/pagina-inicial.png 
+![Tela Inicial](./imgithub/pagina-inicial.png)
+
   
 ### Seleção de Disciplinas
 ./imgithub/selecao-topicos.png

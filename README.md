@@ -28,10 +28,11 @@ Este quiz foi criado para ajudar estudantes com dificuldade na disciplina de **P
 
   
 ### Seleção de Disciplinas
-./imgithub/selecao-topicos.png
+![Tela de Seleção de Tópicos](./imgithub/selecao-topicos.png)
+
   
 ### Tela de Perguntas
-./imgithub/quiz-perguntas.png
+![Tela de Perguntas](./imgithub/quiz-perguntas.png)
 
 ---
 

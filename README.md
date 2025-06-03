@@ -24,13 +24,13 @@ Este quiz foi criado para ajudar estudantes com dificuldade na disciplina de **P
 ## 📸 Imagens do Projeto
 
 ### Página Inicial
-![Tela Inicial](./caminho/para/imagem1.png) <!-- Substitua pelo caminho correto -->
+./imgithub/pagina-inicial.png 
   
 ### Seleção de Disciplinas
-![Tela de Seleção de Tópicos](./caminho/para/imagem2.png) <!-- Substitua pelo caminho correto -->
+./imgithub/selecao-topicos.png
   
 ### Tela de Perguntas
-![Tela de Perguntas](./caminho/para/imagem3.png) <!-- Substitua pelo caminho correto -->
+./imgithub/quiz-perguntas.png
 
 ---
 
